@@ -86,6 +86,14 @@ body {
     height: 100px;
 }
 
+.hide {
+    display: none;
+}
+
+.contact-dw {
+    color:black;
+    text-decoration: underline;
+}
 
 /* preloader
 ==================================================*/
